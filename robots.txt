@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihemaoci.github.io/LvD/sitemap_index.txt.gz
+Sitemap: https://ihemaoci.github.io/UYh/sitemap_index.txt.gz
+Sitemap: https://ihemaoci.github.io/Ucr/sitemap_index.txt.gz
+Sitemap: https://ihemaoci.github.io/XHo/sitemap_index.txt.gz
+Sitemap: https://ihemaoci.github.io/veM/sitemap_index.txt.gz
